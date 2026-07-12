@@ -2,5 +2,5 @@
 2:I[33343,["9679","static/chunks/e75b5ed7-1b80a3086e237d20.js","1603","static/chunks/1603-deb24296072b1dba.js","778","static/chunks/778-b2b96e69f2923047.js","1082","static/chunks/1082-d760ef68dca28abf.js","860","static/chunks/860-f0f0e268e90a123d.js","7010","static/chunks/app/app/onboarding/page-8a3d454700b12ca3.js"],"OnboardingFlow"]
 3:I[73606,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0PDkN21yKSy8TZx8UptCW"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"lBdYSAQ4_wm59Gfw5P-PN"}
 5:null
