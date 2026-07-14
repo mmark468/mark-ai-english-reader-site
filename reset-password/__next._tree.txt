@@ -1,2 +1,2 @@
-:HL["/mark-ai-english-reader-site/_next/static/css/5af3bcdcb095ab69.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"reset-password","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"lBdYSAQ4_wm59Gfw5P-PN"}
+:HL["/mark-ai-english-reader-site/_next/static/css/4a99b7c0428e3da7.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"reset-password","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"_pbKUzVtz8juHj66lyR89"}
