@@ -1,10 +1,10 @@
 User-Agent: *
-Allow: /
-Allow: /privacy/
-Allow: /terms/
-Disallow: /app/
-Disallow: /login/
-Disallow: /signup/
-Disallow: /auth/
+Allow: /mark-ai-english-reader-site/
+Allow: /mark-ai-english-reader-site/privacy/
+Allow: /mark-ai-english-reader-site/terms/
+Disallow: /mark-ai-english-reader-site/app/
+Disallow: /mark-ai-english-reader-site/login/
+Disallow: /mark-ai-english-reader-site/signup/
+Disallow: /mark-ai-english-reader-site/auth/
 
 Sitemap: https://mmark468.github.io/mark-ai-english-reader-site/sitemap.xml
