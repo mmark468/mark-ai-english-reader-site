@@ -1,2 +1,2 @@
 :HL["/mark-ai-english-reader-site/_next/static/css/ef5d767919f33303.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"app","param":null,"prefetchHints":0,"slots":{"children":{"name":"library","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"dXvlvUOwxQTdSffrzU1kz"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"app","param":null,"prefetchHints":0,"slots":{"children":{"name":"library","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"dF6ol2PN7E5_7Uy-LL8Cg"}
