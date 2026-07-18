@@ -1,6 +1,6 @@
 const scope = self.registration.scope;
 const cachePrefix = `mark-shell:${new URL(scope).pathname}`;
-const cacheName = `${cachePrefix}:v1`;
+const cacheName = `${cachePrefix}:v2`;
 const shell = [scope, new URL("offline.html", scope).href, new URL("manifest.webmanifest", scope).href];
 
 self.addEventListener("install", (event) => {
@@ -40,7 +40,17 @@ self.addEventListener("fetch", (event) => {
     );
     return;
   }
-  if (url.origin === self.location.origin && /\.(?:js|css|svg|png|webp|woff2?)$/i.test(url.pathname)) {
-    event.respondWith(caches.match(request).then((cached) => cached || fetch(request)));
+  if (url.origin === self.location.origin && /\.(?:m?js|css|svg|png|webp|woff2?)$/i.test(url.pathname)) {
+    event.respondWith(
+      caches.match(request).then(async (cached) => {
+        if (cached) return cached;
+        const response = await fetch(request);
+        if (response.ok) {
+          const copy = response.clone();
+          await caches.open(cacheName).then((cache) => cache.put(request, copy));
+        }
+        return response;
+      }),
+    );
   }
 });
