@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
-  "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-  "githubRunId": "29655518391",
-  "githubRunAttempt": "2",
+  "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+  "githubRunId": "29658597647",
+  "githubRunAttempt": "1",
   "workflow": "Prepare and release public site",
-  "evidenceNonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c",
-  "generatedAt": "2026-07-18T18:42:30.869Z",
+  "evidenceNonce": "03648479-7e65-4437-af9a-95b734385cdf",
+  "generatedAt": "2026-07-18T19:58:56.404Z",
   "environment": "github-actions-guest-production-export",
   "playwright": {
     "status": "passed",
@@ -72,9 +72,9 @@
       "testTitle": "desktop reader acceptance covers pagination, dictionary, AI Demo, vocabulary and review",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-desktop--6ffdf--Demo-vocabulary-and-review-desktop/00-home-1440x900.png",
@@ -88,25 +88,25 @@
       "testTitle": "desktop reader acceptance covers pagination, dictionary, AI Demo, vocabulary and review",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-desktop--6ffdf--Demo-vocabulary-and-review-desktop/00-settings-1440x900.png",
       "filename": "00-settings-1440x900.png",
       "width": 1440,
       "height": 900,
-      "bytes": 82016,
-      "sha256": "9341099ba46934fbfd374b9a25cf61f4cd2fa87a83ec907e587bbfc75d3b330f",
+      "bytes": 82079,
+      "sha256": "a34b845c8d594ac83a8f299b5cde512a94253badb48f00ea40b44fa0ad4d5a51",
       "project": "desktop",
       "testId": "0c0c0a8ef0e70417fecd-21440ad487240bd90f09",
       "testTitle": "desktop reader acceptance covers pagination, dictionary, AI Demo, vocabulary and review",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-desktop--6ffdf--Demo-vocabulary-and-review-desktop/01-reader-paginated-1440x900.png",
@@ -114,63 +114,63 @@
       "width": 1440,
       "height": 900,
       "bytes": 229792,
-      "sha256": "c7acef05913c6bc57a2abfa7a699c1ba78372e9f980d4af2f728c395c14076f7",
+      "sha256": "879e6d962b6642433dca573ddf78359ca67359f043ecb9830062ef511a6637ac",
       "project": "desktop",
       "testId": "0c0c0a8ef0e70417fecd-21440ad487240bd90f09",
       "testTitle": "desktop reader acceptance covers pagination, dictionary, AI Demo, vocabulary and review",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-desktop--6ffdf--Demo-vocabulary-and-review-desktop/02-reader-curl-intermediate-1440x900.png",
       "filename": "02-reader-curl-intermediate-1440x900.png",
       "width": 1440,
       "height": 900,
-      "bytes": 381184,
-      "sha256": "f06bfc1efe7317f989fc1a870a837ce4bba634e0ee66a27180af7032f383263b",
+      "bytes": 381288,
+      "sha256": "fa83e8685652b647d44e00fd1102fb1e3ffc3e6bdb24e110e58878ab2987195b",
       "project": "desktop",
       "testId": "0c0c0a8ef0e70417fecd-21440ad487240bd90f09",
       "testTitle": "desktop reader acceptance covers pagination, dictionary, AI Demo, vocabulary and review",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-desktop--6ffdf--Demo-vocabulary-and-review-desktop/02b-reader-eye-care-system-font-1440x900.png",
       "filename": "02b-reader-eye-care-system-font-1440x900.png",
       "width": 1440,
       "height": 900,
-      "bytes": 234178,
-      "sha256": "9f820b216fcba65e592c7cef212c5b633f30b16c8104aeebf97024f12cd31554",
+      "bytes": 233439,
+      "sha256": "8ac7a93e3439326206d3b8c42976ff7435a01e4178e280f35e9aca85d5cda463",
       "project": "desktop",
       "testId": "0c0c0a8ef0e70417fecd-21440ad487240bd90f09",
       "testTitle": "desktop reader acceptance covers pagination, dictionary, AI Demo, vocabulary and review",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-desktop--6ffdf--Demo-vocabulary-and-review-desktop/02c-reader-paper-sans-font-1440x900.png",
       "filename": "02c-reader-paper-sans-font-1440x900.png",
       "width": 1440,
       "height": 900,
-      "bytes": 231939,
-      "sha256": "c80fee5f4a042cb1480cfce90049a0e9a96bde5e154a228665ffddc8dd5a6110",
+      "bytes": 231829,
+      "sha256": "1556306355282c2d52335b92c274f9bef9d41daac6c603fd576cd4233334331d",
       "project": "desktop",
       "testId": "0c0c0a8ef0e70417fecd-21440ad487240bd90f09",
       "testTitle": "desktop reader acceptance covers pagination, dictionary, AI Demo, vocabulary and review",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-desktop--6ffdf--Demo-vocabulary-and-review-desktop/03-reader-vertical-1440x900.png",
@@ -178,31 +178,31 @@
       "width": 1440,
       "height": 900,
       "bytes": 192643,
-      "sha256": "4b01714e66825d254b50daf94f9c5c90a3b9439430f151e6d47a7064910be1f1",
+      "sha256": "33aef6e336ead326e3a01fe9bf05cec5d15f4ac3ab771ab24c9707798946ef2e",
       "project": "desktop",
       "testId": "0c0c0a8ef0e70417fecd-21440ad487240bd90f09",
       "testTitle": "desktop reader acceptance covers pagination, dictionary, AI Demo, vocabulary and review",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-desktop--6ffdf--Demo-vocabulary-and-review-desktop/04-dictionary-english-1440x900.png",
       "filename": "04-dictionary-english-1440x900.png",
       "width": 1440,
       "height": 900,
-      "bytes": 254175,
-      "sha256": "54fbc650ecb011b31ca39946e59477772fda485c4a099468568e8d1f2aca6db2",
+      "bytes": 254107,
+      "sha256": "cc8e769a7c4b856202ca5a8f5cea9d72129106afcff65148e2d9cbc575156a61",
       "project": "desktop",
       "testId": "0c0c0a8ef0e70417fecd-21440ad487240bd90f09",
       "testTitle": "desktop reader acceptance covers pagination, dictionary, AI Demo, vocabulary and review",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-desktop--6ffdf--Demo-vocabulary-and-review-desktop/05-dictionary-chinese-1440x900.png",
@@ -216,57 +216,57 @@
       "testTitle": "desktop reader acceptance covers pagination, dictionary, AI Demo, vocabulary and review",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-desktop--6ffdf--Demo-vocabulary-and-review-desktop/06-reader-ai-capabilities-1440x900.png",
       "filename": "06-reader-ai-capabilities-1440x900.png",
       "width": 1440,
       "height": 900,
-      "bytes": 238179,
-      "sha256": "7c2609748b0fab52ccef5c147b15b2e142d30785808f0f771e01bf5fb65b60d9",
+      "bytes": 237746,
+      "sha256": "00ae7b704be6be91515cae79f518d72ee50fd69a6fff87e0114d73f0fc6047b1",
       "project": "desktop",
       "testId": "0c0c0a8ef0e70417fecd-21440ad487240bd90f09",
       "testTitle": "desktop reader acceptance covers pagination, dictionary, AI Demo, vocabulary and review",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-desktop--6ffdf--Demo-vocabulary-and-review-desktop/06b-reader-ai-demo-answer-1440x900.png",
       "filename": "06b-reader-ai-demo-answer-1440x900.png",
       "width": 1440,
       "height": 900,
-      "bytes": 118001,
-      "sha256": "a77e267d1932a60d5c2edaaf0608556e24ca90a351c70967cf75d9b5a1cc5c7f",
+      "bytes": 117967,
+      "sha256": "3c014aa2b951b0ae6d18b88adc37c0ac4f776a710190105989b5a72297c23759",
       "project": "desktop",
       "testId": "0c0c0a8ef0e70417fecd-21440ad487240bd90f09",
       "testTitle": "desktop reader acceptance covers pagination, dictionary, AI Demo, vocabulary and review",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-desktop--6ffdf--Demo-vocabulary-and-review-desktop/07-vocabulary-saved-word-1440x900.png",
       "filename": "07-vocabulary-saved-word-1440x900.png",
       "width": 1440,
       "height": 900,
-      "bytes": 92708,
-      "sha256": "5c59be7649261cf038f18bedb02e6e78fb3b0b89da9561ff400bab5a94be3167",
+      "bytes": 92817,
+      "sha256": "30ac3dbd784de3eaefe5bac6d1dc79d3c33c06cbe17e741bafcb5e306a38c911",
       "project": "desktop",
       "testId": "0c0c0a8ef0e70417fecd-21440ad487240bd90f09",
       "testTitle": "desktop reader acceptance covers pagination, dictionary, AI Demo, vocabulary and review",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-desktop--6ffdf--Demo-vocabulary-and-review-desktop/08-review-card-1440x900.png",
@@ -280,9 +280,9 @@
       "testTitle": "desktop reader acceptance covers pagination, dictionary, AI Demo, vocabulary and review",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-desktop--6ffdf--Demo-vocabulary-and-review-desktop/08a-review-card-prompt-1440x900.png",
@@ -296,9 +296,9 @@
       "testTitle": "desktop reader acceptance covers pagination, dictionary, AI Demo, vocabulary and review",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-desktop--c626c-ity-catalog-is-display-only-desktop/06a-reader-ai-dual-provider-simulated-1440x900.png",
@@ -306,15 +306,15 @@
       "width": 1440,
       "height": 900,
       "bytes": 194349,
-      "sha256": "87741d50412471509426b61442ff09ba61377392cb1327071caac4ec66a9d09e",
+      "sha256": "a4edb294ef84bae3cd8ac71bff72c5abe88920ad38fe5c759bc96a0c920dae65",
       "project": "desktop",
       "testId": "0c0c0a8ef0e70417fecd-4390818bcee7e9a6135b",
       "testTitle": "desktop simulated dual-provider capability catalog is display-only",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-guest-fi-87e5e--page-location-after-reload-desktop/12-guest-pdf-page-1-selection-1440x900.png",
@@ -328,9 +328,9 @@
       "testTitle": "guest fixed PDF keeps its canvas, trusted text selection and second-page location after reload",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-guest-fi-87e5e--page-location-after-reload-desktop/13-guest-pdf-page-2-restored-1440x900.png",
@@ -344,9 +344,9 @@
       "testTitle": "guest fixed PDF keeps its canvas, trusted text selection and second-page location after reload",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-mobile-r-9a219-ns-the-real-dictionary-card-mobile-webkit/09-mobile-reading-lookup-390x844.png",
@@ -360,9 +360,9 @@
       "testTitle": "mobile reader uses touch paging and opens the real dictionary card",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-mobile-r-9a219-ns-the-real-dictionary-card-mobile-webkit/10-mobile-ai-drawer-390x844.png",
@@ -376,9 +376,9 @@
       "testTitle": "mobile reader uses touch paging and opens the real dictionary card",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-mobile-r-9a219-ns-the-real-dictionary-card-mobile-webkit/11-mobile-vocabulary-390x844.png",
@@ -392,9 +392,9 @@
       "testTitle": "mobile reader uses touch paging and opens the real dictionary card",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-mobile-r-9a219-ns-the-real-dictionary-card-mobile-webkit/12-mobile-review-prompt-390x844.png",
@@ -408,9 +408,9 @@
       "testTitle": "mobile reader uses touch paging and opens the real dictionary card",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-mobile-r-9a219-ns-the-real-dictionary-card-mobile-webkit/13-mobile-review-answer-390x844.png",
@@ -424,9 +424,9 @@
       "testTitle": "mobile reader uses touch paging and opens the real dictionary card",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-mobile-r-9a219-ns-the-real-dictionary-card-mobile/09-mobile-reading-lookup-390x844.png",
@@ -440,25 +440,25 @@
       "testTitle": "mobile reader uses touch paging and opens the real dictionary card",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-mobile-r-9a219-ns-the-real-dictionary-card-mobile/10-mobile-ai-drawer-390x844.png",
       "filename": "10-mobile-ai-drawer-390x844.png",
       "width": 390,
       "height": 844,
-      "bytes": 77824,
-      "sha256": "f0c083e619e6728f50138262df77db01bf3fd2eb1369dde0ea648c06fae41b29",
+      "bytes": 77600,
+      "sha256": "2785a2bf043f6cd14f4c0b5545ce44e3be474f018ad5f3a9653a5944672ea62d",
       "project": "mobile",
       "testId": "0c0c0a8ef0e70417fecd-2d4192b151e186646d20",
       "testTitle": "mobile reader uses touch paging and opens the real dictionary card",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-mobile-r-9a219-ns-the-real-dictionary-card-mobile/11-mobile-vocabulary-390x844.png",
@@ -472,57 +472,57 @@
       "testTitle": "mobile reader uses touch paging and opens the real dictionary card",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-mobile-r-9a219-ns-the-real-dictionary-card-mobile/12-mobile-review-prompt-390x844.png",
       "filename": "12-mobile-review-prompt-390x844.png",
       "width": 390,
       "height": 844,
-      "bytes": 37933,
-      "sha256": "c8a27fb985b9d5c74f43e34b968317401b62de7d842ab31d12307faaa2c20302",
+      "bytes": 42807,
+      "sha256": "4bb3a59d4c96999690339c62205abed0ff42caf8a530d845987a53366a51acc7",
       "project": "mobile",
       "testId": "0c0c0a8ef0e70417fecd-2d4192b151e186646d20",
       "testTitle": "mobile reader uses touch paging and opens the real dictionary card",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-mobile-r-9a219-ns-the-real-dictionary-card-mobile/13-mobile-review-answer-390x844.png",
       "filename": "13-mobile-review-answer-390x844.png",
       "width": 390,
       "height": 844,
-      "bytes": 46869,
-      "sha256": "d5ac1446df670673657c5fa1796b3971821b6d065154ef2cd168b42e6d9e3b18",
+      "bytes": 46759,
+      "sha256": "7a64a9236fca1cb5268ae7cdc8f5447048de405528707b825f316ce47e47991b",
       "project": "mobile",
       "testId": "0c0c0a8ef0e70417fecd-2d4192b151e186646d20",
       "testTitle": "mobile reader uses touch paging and opens the real dictionary card",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-tablet-r-dafd4-the-exact-required-viewport-tablet/10-reader-tablet-768x1024.png",
       "filename": "10-reader-tablet-768x1024.png",
       "width": 768,
       "height": 1024,
-      "bytes": 145289,
-      "sha256": "3578f6b9ddcb03da3b6e65d4b153be7f152ad41787552c5defc55c5ca550d973",
+      "bytes": 145293,
+      "sha256": "63e9d5e344c6db58df0be836d4326267d06143722dabd875767fccdb2ecb5bfe",
       "project": "tablet",
       "testId": "0c0c0a8ef0e70417fecd-a570cd3f14dc0baef560",
       "testTitle": "tablet reader evidence uses the exact required viewport",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-wide-rea-66502-the-exact-required-viewport-desktop/11-reader-wide-1920x1080.png",
@@ -530,15 +530,15 @@
       "width": 1920,
       "height": 1080,
       "bytes": 380890,
-      "sha256": "af2235fad5369b89dd0e55c2ee486249b43c891dfa3b370b90df65ed8068e90c",
+      "sha256": "a1232fec234bfe70dbc75fd5d7fd09cca3c224238160de874cd6635ff90925c3",
       "project": "desktop",
       "testId": "0c0c0a8ef0e70417fecd-cafa25c0c83e4b53a08b",
       "testTitle": "wide reader evidence uses the exact required viewport",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     },
     {
       "path": "reader-acceptance-wide-rea-66502-the-exact-required-viewport-desktop/14-reader-dark-1920x1080.png",
@@ -552,9 +552,9 @@
       "testTitle": "wide reader evidence uses the exact required viewport",
       "status": "passed",
       "retry": 0,
-      "runId": "29655518391",
-      "sourceSha": "8160a14c0d9253770d7e702969889bd82a44af23",
-      "nonce": "8c31564f-3fc6-44e8-8f14-aa09d3d20e7c"
+      "runId": "29658597647",
+      "sourceSha": "d99beaaa34b4d039f0e236898c4ac0822e0b130c",
+      "nonce": "03648479-7e65-4437-af9a-95b734385cdf"
     }
   ]
 }
